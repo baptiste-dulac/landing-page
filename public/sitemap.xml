@@ -6,6 +6,12 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.baptistedulac.me/</loc>
-        <lastmod>2017-12-06T10:47:43+00:00</lastmod>
+        <lastmod>2018-11-13T05:03:33+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.baptistedulac.me/cv-baptiste_dulac-2018.pdf</loc>
+        <lastmod>2018-11-13T05:02:01+00:00</lastmod>
+        <priority>0.80</priority>
     </url>
 </urlset>
