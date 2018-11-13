@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteCond %{HTTP_HOST} !^www\.baptistedulac\.me$ [NC]
+RewriteCond %{HTTP_HOST} !^www\.baptistedulac\.me [NC]
 RewriteRule ^(.*)$ https://www.baptistedulac.me/$1 [R=301,L]
 </IfModule>
